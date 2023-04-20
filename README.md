@@ -8,7 +8,7 @@ Project Link (GitHub repository URL): https://github.com/KeshavO7/Protfoilio-per
 
 Project Demo URL: https://red-stone-0f3c9ff10.3.azurestaticapps.net/
 
-Project Demo Video URL: 
+Project Demo Video URL: https://youtu.be/uEjJj-wHdbo
 
 Screenshot of project
 
