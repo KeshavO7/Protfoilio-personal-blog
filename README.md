@@ -8,7 +8,7 @@ Project Link (GitHub repository URL): https://github.com/KeshavO7/Protfoilio-per
 
 Project Demo URL: https://lively-ocean-02469f410.3.azurestaticapps.net/
 
-Project Demo Video URL:
+Project Demo Video URL: https://youtu.be/_dSMX1LxRi8
 
 Screenshot of project
 
